@@ -1,0 +1,17 @@
+{
+    "name": "adityabimo/rakunesia-upload",
+    "description": "A simple upload file manager PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aditya Bimo P",
+            "email": "adityabimo29@gmail.com"
+        }
+    ],
+	"minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"rakunesia\\FileUpload\\": "src/"}
+    },
+    "require": {}
+}
