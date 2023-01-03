@@ -77,7 +77,6 @@ class Upload
             } else {
                 echo "<span style='color: red'>Upload file {$namaFile} gagal</span> <br>";
             }
-            
         }
     }
 
